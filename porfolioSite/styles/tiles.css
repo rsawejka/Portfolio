@@ -1,0 +1,221 @@
+/*title box trasition bottom*/
+.tileboxBottom{
+}
+.tileButton{
+    border: 1px solid #FC5130!important;
+    color: #FC5130!important;
+}
+.tileButton:hover{
+    background-color: #FC5130!important;
+    color: #FFFAFF!important;
+}
+.top{
+    color: #FFFAFF;
+}
+.tileboxBottom div {
+    height: 250px;
+    width: 100%;
+    transition: all .5s ease-in-out;
+}
+
+.tileboxBottom  p, .tileboxBottom button, .tileboxBottom .tilebox  a {
+
+    font-size: 12px;
+}
+.tileboxBottom a {
+}
+
+.tileboxBottom button {
+    background-color: #FFFAFF;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.tileboxBottom .outer {
+    overflow: hidden;
+    position: relative;
+
+
+}
+
+.tileboxBottom  .bottom {
+    background: #FFFAFF;
+    bottom: -400px;
+    position: absolute;
+    width: 100%;
+}
+
+.tileboxBottom .top {
+    background: #5B7792;
+    bottom: 0px;
+    position: absolute;
+    vertical-align: top;
+    width: 100%;
+}
+
+.tileboxBottom  .outer:hover .bottom {
+    bottom: 0px;
+}
+
+.tileboxBottom .outer:hover .top {
+    bottom: 200px;
+}
+/*title box trasition bottom*/
+/*title box trasition top*/
+.titleboxTop{
+}
+.titleboxTop div {
+    height: 250px;
+    width: 100%;
+    transition: all .5s ease-in-out;
+}
+
+.titleboxTop  p, .titleboxTop button, .titleboxTop .tilebox  a {
+    font-size: 12px;
+}
+.titleboxTop a {
+}
+
+.titleboxTop button {
+    background-color: #fff;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.titleboxTop .outer {
+    overflow: hidden;
+    position: relative;
+
+
+}
+
+.titleboxTop  .bottom {
+    background: #FFFAFF;
+    top: -400px;
+    position: absolute;
+    width: 100%;
+}
+
+.titleboxTop .top {
+    background: #5B7792;
+    top: 0px;
+    position: absolute;
+    vertical-align: top;
+    width: 100%;
+}
+
+.titleboxTop  .outer:hover .bottom {
+    top: 0px;
+}
+
+.titleboxTop .outer:hover .top {
+    top: 200px;
+}
+/*title box trasition top*/
+/*title box trasition left*/
+.tileboxLeft{
+}
+.tileboxLeft div {
+    height: 250px;
+    width: 100%;
+    transition: all .5s ease-in-out;
+}
+
+.tileboxLeft  p, .tileboxLeft button, .tileboxLeft .tilebox  a {
+    font-family: verdana;
+    font-size: 12px;
+}
+.tileboxLeft a {
+}
+
+.tileboxLeft button {
+    background-color: #FFFAFF;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.tileboxLeft .outer {
+    overflow: hidden;
+    position: relative;
+
+
+}
+
+.tileboxLeft  .bottom {
+    background: #FFFAFF;
+    left: -1000px;
+    position: absolute;
+    width: 100%;
+}
+
+.tileboxLeft .top {
+    background: #5B7792;
+    left: 0px;
+    position: absolute;
+    vertical-align: top;
+    width: 100%;
+}
+
+.tileboxLeft  .outer:hover .bottom {
+    left: 0px;
+}
+
+.tileboxLeft .outer:hover .top {
+    left: 200px;
+}
+/*title box trasition left*/
+/*title box trasition right*/
+
+.tileboxRight{
+
+}
+.tileboxRight div {
+    height: 250px;
+    width: 100%;
+    transition: all .5s ease-in-out;
+}
+
+.tileboxRight  p, .tileboxRight button, .tileboxRight .tilebox  a {
+    font-family: verdana;
+    font-size: 12px;
+}
+.tileboxRight a {
+    color: #fff;
+}
+
+.tileboxRight button {
+    background-color: #FFFAFF;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.tileboxRight .outer {
+    overflow: hidden;
+    position: relative;
+
+
+}
+
+.tileboxRight  .bottom {
+    background: #FFFAFF;
+    right: -1000px;
+    position: absolute;
+    width: 100%;
+}
+
+.tileboxRight .top {
+    background: #5B7792;
+    right: 0px;
+    position: absolute;
+    vertical-align: top;
+    width: 100%;
+}
+
+.tileboxRight  .outer:hover .bottom {
+    right: 0px;
+}
+
+.tileboxRight .outer:hover .top {
+    right: 200px;
+}
+/*title box trasition right*/

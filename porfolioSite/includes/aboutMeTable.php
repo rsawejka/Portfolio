@@ -1,0 +1,8 @@
+<?php
+$information = array(
+    array("Qualifications", "<i class='fa-solid fa-check fa-5x'></i>", "<ul><li>Web Developer offering abilities in multiple code languages with over 5 years work experience.</li><li>Proficient in PHP, WordPress, CSS, HTML, JavaScript.</li><li>Created WordPress plugins and maintained a live site during an internship.</li><li>Passionate and capable of learning new complex ideas.</li><li>Characterized as focused, and motivated.</li><li>Excel in problem solving with a track record of meeting deadlines.</li></ul>", "col-12 col-md-6"),
+    array("Skills", "<i class='fa-solid fa-list-check fa-5x'></i>", "<ul><li>Able to design and develop database-driven web pages using PHP.</li><li>Learned object-oriented PHP techniques to customize WordPress and develop custom plugins.</li><li>Capable of creating dynamic web applications using JavaScript frameworks.</li><li>Understanding of anticipating what users might need to do and ensuring the interface provides elements to facilitate those actions.</li><li>Identified what is needed for a good modern UI and UX.</li></ul>", "col-12 col-md-6"),
+    array("Education", "<i class='fa-solid fa-graduation-cap fa-5x'></i>", "I graduated from Waukesha County Technical Collage, with an Associate of Applied Science Degree.", "col-12 col-md-4"),
+    array("Current Job", "<i class='fa-solid fa-paw fa-5x'></i>", "I currently work at an animal shelter in Waukesha called Humane Animal Welfare Society.", "col-12 col-md-4"),
+    array("Favorite Coding Language", "<i class='fa-solid fa-code fa-5x'></i>", "My favorite coding language right now is PHP. I have the most experience in PHP, so I am able to manipulate the language how ever I need.", "col-12 col-md-4"),
+);
