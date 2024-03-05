@@ -253,7 +253,10 @@ nav {
     color: #5B7792 !important;
     height: 48px;
 }
-
+.gitIcon{
+    color: #FC5130;
+    padding-top: 2px;
+}
 .codeIcon {
     color: #5B7792 !important;
 }
@@ -594,4 +597,8 @@ nav {
 }
 .card-body a:hover{
     text-decoration: underline;
+}
+.buttonGitFlex{
+    display: flex;
+    flex-direction: row;
 }

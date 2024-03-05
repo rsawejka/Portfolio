@@ -3,7 +3,7 @@ $projects = array(
     array(
         7,
         "Web Portfolio Development",
-        "This is my favorite project ive made yet! Its a good example to show how much ive learned at WCTC.",
+        "This is my favorite project ive made yet! Its a good example to show how much ive learned at WCTC",
         "<i class='fa-brands fa-wordpress-simple logoSize'></i>
          <i class='fa-brands fa-html5 logoSize'></i>
          <i class='fa-brands fa-css3-alt logoSize'></i>
@@ -31,7 +31,7 @@ $projects = array(
     array(
         1,
         "WordPress Development Project",
-        "In this project I made my own plugin, to display a custom post type for books.",
+        "In this project I made my own plugin, to display a custom post type for books",
         "<i class='fa-brands fa-wordpress-simple logoSize'></i>
          <i class='fa-solid fa-database logoSize'></i>
          <i class='fa-brands fa-html5 logoSize'></i>
@@ -44,10 +44,62 @@ $projects = array(
     array(
         5,
         "Usability and Project Management",
-        "This project was for my usability and project management class, this project was created with adobe XD. ",
+        "This project was for my usability and project management class, this project was created with adobe XD",
         "<i class='fa-solid fa-file-image logoSize'></i>",
         "img/yaleHomePage.png",
         "https://xd.adobe.com/view/e429da6c-af86-48e7-9aac-1ba3af08c978-b17a/",
         "In this class called usability and project management we had a pretend client. Our pretend client was Yale School of art. We were assigned to create everything from an entire proposal, to a fully working prototype. This class was very useful because it thought me about the process of creating a website with a client.",
+    ),
+    array(
+        2,
+        "Custom Wordpress Block",
+        "These custom WP blocks was for HAWSpets.org to showcase services provided",
+        "<i class='fa-brands fa-wordpress-simple logoSize'></i>
+        <i class='fa-brands fa-html5 logoSize'></i>
+        <i class='fa-brands fa-css3-alt logoSize'></i>
+        <i class='fa-brands fa-js logoSize'></i>",
+        "img/yaleHomePage.png",
+        "#",
+        "caption for indevidual project page",
+        "https://github.com/rsawejka/rsblockfolder/tree/master/src/service-page"
+    ),
+    array(
+        3,
+        "Animal Checklists",
+        "An app designed to track many animals health",
+        "<i class='fa-brands fa-html5 logoSize'></i>
+        <i class='fa-brands fa-css3-alt logoSize'></i>
+        <i class='fa-brands fa-js logoSize'></i>
+        <i class='fa-brands fa-php logoSize'></i>
+        <i class='fa-solid fa-database logoSize'></i>",
+        "img/yaleHomePage.png",
+        "#",
+        "caption for indevidual project page",
+        "https://github.com/rsawejka/Shelter-Database"
+    ),
+    array(
+        4,
+        "Long Term Residents Trello API",
+        "A wordpress shortcode created to help advertise long term residents at HAWS",
+        "<i class='fa-brands fa-html5 logoSize'></i>
+        <i class='fa-brands fa-css3-alt logoSize'></i>
+        <i class='fa-brands fa-js logoSize'></i>
+        <i class='fa-brands fa-php logoSize'></i>
+        <i class='fa-solid fa-database logoSize'></i>",
+        "img/yaleHomePage.png",
+        "#",
+        "caption for indevidual project page",
+        "https://github.com/rsawejka/LTRshortCode"
+    ),
+    array(
+        4,
+        "Concord Cat",
+        "A simple one page website, that promotes a service provided by a grant",
+        "<i class='fa-brands fa-html5 logoSize'></i>
+        <i class='fa-brands fa-css3-alt logoSize'></i>",
+        "img/yaleHomePage.png",
+        "#",
+        "caption for indevidual project page",
+        "https://github.com/rsawejka/concordCat"
     ),
 );
