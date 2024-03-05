@@ -5,11 +5,11 @@ foreach ($projects as $project){
     echo "
   <div class='col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4'>
      <div class='card card-width mb-5'>
-        <a href='/indevidualProject.php?id=$project[0]'> <img class='card-img' src='$project[4]' class='card-img-top' alt='...'></a>
+        <img class='card-img' src='$project[4]' class='card-img-top' alt='...'>
           <!--</button>-->
 
         <div class='card-body'>
-            <a href='/indevidualProject.php?id=$project[0]'> <h5 class='card-title'>$project[1]</h5></a>
+            <h5 class='card-title'>$project[1]</h5>
             <p class='card-text'>
             $project[2]
 
