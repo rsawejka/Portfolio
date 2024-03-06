@@ -90,3 +90,6 @@ const gra = function(min, max) {
     window.onbeforeunload = function(e) {
     localStorage.setItem('scrollpos', window.scrollY);
 };
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
