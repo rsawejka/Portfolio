@@ -203,7 +203,22 @@ nav {
 
 
 }
-
+#githubButton{
+    border: none;
+}
+#githubButton:hover {
+    background-color: #FC5130;
+}
+#githubButton a{
+    color: #FC5130;
+    text-decoration: none;
+}
+#githubButton a:hover{
+    color: #FFFAFF;
+}
+#githubButton:hover .gitIcon{
+    color: #FFFAFF;
+}
 #contactMe {
     border: 1px solid #FC5130;
     color: #FC5130;

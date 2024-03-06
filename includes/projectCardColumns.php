@@ -14,7 +14,7 @@ foreach ($projects as $project){
             </p>
             <div class='buttonGitFlex'>
             <a href='$project[5]' target='_blank'><button type='button' id='contactMe' class='mt-3 btn btn-outline-secondary'>View Site</button></a>
-            <a href='$project[7]' ><div><i class='mt-3 fa-brands fa-square-github logoSize gitIcon'></i></div></a>
+            <a href='$project[7]' ><div><button type='button' id='githubButton' class='mt-3 ms-1 btn btn-outline-secondary'><i class=' fa-brands fa-square-github fa-2xl gitIcon'></i></button></div></a>
             </div>
         
 
