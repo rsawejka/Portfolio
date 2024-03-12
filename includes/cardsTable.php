@@ -2,14 +2,15 @@
 $projects = array(
     array(
         7,
-        "Web Portfolio Development",
-        "This is my favorite project ive made yet! Its a good example to show how much ive learned at WCTC",
+        "Animal shelter database UI",
+        "This Shelter Database Web Application is a user friendly platform designed to efficiently organize information related to animal shelters. Developed using PHP, JavaScript, and a database, this application seamlessly integrates frontend and backend functionalities for a smooth user experience.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='Database' class='fa-solid fa-database logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='PHP' class='fa-brands fa-php logoSize'></i>",
-        "img/shelterBuddy.png",
+        "<li>Uses PHP to manipulate date from a database</li>
+        <li>Animal shelter database UI",
         "https://rsawejka.bitlampsites.com/portfolio/Final/homePage.php",
         "This is the biggest project I have ever created, I worked on it for 10+ weeks straight! This project contains a custom database, and a frontend to display and manipulate all of the data. This project is based off my current jobs database that we use daily. It is a database that tracks all animals that come to an animal shelter. The database allows employees to adopt out animals, put them in foster and track any data needed for a specific animal. It also allows employees to track all medical information, medications, and vet requests.",
         "https://github.com/rsawejka/Shelter-Database"
@@ -17,7 +18,7 @@ $projects = array(
     array(
         6,
         "Content Management Systems",
-        "This was my first project for a real world client. My partner and I created an online class registration system with WordPress",
+        "The Learning in Retirement website, built using WordPress along with customized plugins, provides a easy for users to sign up for classes. It makes registering for courses easy, creating friendly experience for users.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
@@ -30,8 +31,8 @@ $projects = array(
 
     array(
         1,
-        "WordPress Development Project",
-        "In this project I made my own plugin, to display a custom post type for books",
+        "Custom Wordpress plugin",
+        "This custom Wordpress plugin creates a custom post type, to help keep the site organized.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='Database' class='fa-solid fa-database logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
@@ -43,8 +44,8 @@ $projects = array(
     ),
     array(
         5,
-        "Usability and Project Management",
-        "This project was for my usability and project management class, this project was created with adobe XD",
+        "Yale School of Art site - remastered",
+        "This project was created in my project management class. This project was created with adobe XD, and is an excellent showcase of my UI design knowlage",
         "<i data-toggle='tooltip' data-placement='bottom' title='Adobe XD' class='fa-solid fa-file-image logoSize'></i>",
         "img/yaleHomePage.png",
         "https://xd.adobe.com/view/e429da6c-af86-48e7-9aac-1ba3af08c978-b17a/",

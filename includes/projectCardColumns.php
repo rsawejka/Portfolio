@@ -8,7 +8,7 @@ foreach ($projects as $project){
        
 
         <div class='card-body'>
-            <h5 class='card-title'>$project[1]</h5>
+            <h3 class='card-title'>$project[1]</h3>
             <p class='card-text'>
             $project[2]
             </p>
