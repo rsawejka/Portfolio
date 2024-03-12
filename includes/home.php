@@ -10,15 +10,15 @@
             <div class="introScreenNormalText">I like to build apps for the web</div>
             <div class="introScreenNormalText pb-2 mt-5 border-bottom">Tools I Am Proficient With</div>
             <div class="mt-3">
-                <i class="fa-brands fa-vuejs logoSize"></i>
-                <i class="fa-brands fa-js logoSize"></i>
-                <i class="fa-brands fa-html5 logoSize"></i>
-                <i class="fa-brands fa-css3-alt logoSize"></i>
-                <i class="fa-solid fa-database logoSize"></i>
-                <i class="fa-brands fa-php logoSize"></i>
-                <i class="fa-brands fa-wordpress-simple logoSize"></i>
-                <i class="fa-brands fa-react logoSize"></i>
-                <i class="fa-brands fa-bootstrap logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='Vue JS' class="fa-brands fa-vuejs logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='JavaScript' class="fa-brands fa-js logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='HTML' class="fa-brands fa-html5 logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='CSS' class="fa-brands fa-css3-alt logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='Database/API' class="fa-solid fa-database logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='PHP' class="fa-brands fa-php logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class="fa-brands fa-wordpress-simple logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='React JS' class="fa-brands fa-react logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class="fa-brands fa-bootstrap logoSize"></i>
             </div>
                 <button type="button" id="contactMe" class="mt-3 btn btn-outline-secondary"><a href="index.php#contact">Contact Me!</a></button>
             <a class="ms-1" href="img/MostUpdatedResume.docx" download>
