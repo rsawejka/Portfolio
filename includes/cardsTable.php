@@ -3,7 +3,7 @@ $projects = array(
     array(
         7,
         "Animal shelter database UI",
-        "This Shelter Database Web Application is a user friendly platform designed to efficiently organize information related to animal shelters. Developed using PHP, JavaScript, and a database, this application seamlessly integrates frontend and backend functionalities for a smooth user experience.",
+        "This Shelter Database Web Application is a user friendly platform designed to efficiently organize information related to animal shelters. Developed using PHP, JavaScript, and a database.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
@@ -18,7 +18,7 @@ $projects = array(
     array(
         6,
         "Content Management Systems",
-        "The Learning in Retirement website, built using WordPress along with customized plugins, provides a easy for users to sign up for classes. It makes registering for courses easy, creating friendly experience for users.",
+        "The Learning in Retirement of Waukesha County website is built using WordPress along with customized plugins. This website provides an easy way for users to sign up for classes.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
@@ -31,8 +31,8 @@ $projects = array(
 
     array(
         1,
-        "Custom Wordpress plugin",
-        "This custom Wordpress plugin creates a custom post type, to help keep the site organized.",
+        "Custom Post Wordpress plugin",
+        "This page is showcase of a custom wordpress plugin along with a custom theme. This custom Wordpress plugin creates a custom post type for books, it allows the admin of the site to post books and all of its details.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='Database' class='fa-solid fa-database logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
@@ -43,18 +43,9 @@ $projects = array(
         "https://github.com/rsawejka/WPD_final"
     ),
     array(
-        5,
-        "Yale School of Art site - remastered",
-        "This project was created in my project management class. This project was created with adobe XD, and is an excellent showcase of my UI design knowlage",
-        "<i data-toggle='tooltip' data-placement='bottom' title='Adobe XD' class='fa-solid fa-file-image logoSize'></i>",
-        "img/yaleHomePage.png",
-        "https://xd.adobe.com/view/e429da6c-af86-48e7-9aac-1ba3af08c978-b17a/",
-        "In this class called usability and project management we had a pretend client. Our pretend client was Yale School of art. We were assigned to create everything from an entire proposal, to a fully working prototype. This class was very useful because it thought me about the process of creating a website with a client.",
-    ),
-    array(
         2,
         "Custom Wordpress Block",
-        "These custom WP blocks was for HAWSpets.org to showcase services provided",
+        "This custom Wordpress block is a user friendly and simple way to display a lot of branching off links. This Custom block also allows for easy and efficient editing for the admin.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
@@ -67,7 +58,7 @@ $projects = array(
     array(
         3,
         "Animal Checklists",
-        "An app designed to track many animals health",
+        "This app is desinged to track many different animals health/habbits. The puprose of this app is to provide an ergonomic way for caretakers to track animals health, without disrupting workflow. Along with providing an easy way to review the data.",
         "<i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='JavaScript' class='fa-brands fa-js logoSize'></i>
@@ -81,7 +72,7 @@ $projects = array(
     array(
         4,
         "Long Term Residents Trello API",
-        "A wordpress shortcode created to help advertise long term residents at HAWS",
+        "This Wordpress short code creates a connection with the Trello API. This shortcode creates an easy way to maintain the long term residents displayed on the Humane Animal Welfare Society's website.",
         "<i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='JavaScript' class='fa-brands fa-js logoSize'></i>
@@ -95,7 +86,7 @@ $projects = array(
     array(
         4,
         "Concord Cat",
-        "A simple one page website, that promotes a service provided by a grant",
+        "This is a simple one page website to display an opportunity/information about a grant the Humane Animal Welfare Society had recived.",
         "<i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>",
         "img/yaleHomePage.png",

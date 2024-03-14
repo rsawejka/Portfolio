@@ -32,3 +32,6 @@ main {
 .content a {
     display: none;
 }
+.card-text{
+    height: 200px;
+}

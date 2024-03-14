@@ -23,11 +23,6 @@ html {
 body {
     background-color: #FFFAFF !important;
 }
-
-section {
-
-
-}
 nav li {
     margin-left: 10px;
 }
@@ -170,11 +165,6 @@ main {
     border: 2px solid black;
     height: 30px;
 }
-
-#sideBarButton:hover .icon {
-
-}
-
 .scroll-progress {
     width: 0%;
     background-color: #F06449;
@@ -266,7 +256,9 @@ nav {
 
 .card-text {
     color: #5B7792 !important;
-    height: 55px;
+    height: 150px;
+    display: flex;
+    align-items: center;
 }
 .gitIcon{
     color: #FC5130;
