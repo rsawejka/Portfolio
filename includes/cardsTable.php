@@ -52,7 +52,7 @@ $projects = array(
         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='JavaScript' class='fa-brands fa-js logoSize'></i>",
         "img/yaleHomePage.png",
-        "https://rsawejka.com/",
+        "https://rsawejka.com/?page_id=66",
         "caption for indevidual project page",
         "https://github.com/rsawejka/rsblockfolder/tree/master/src/service-page"
     ),
