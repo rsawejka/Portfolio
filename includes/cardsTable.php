@@ -2,7 +2,7 @@
 $projects = array(
     array(
         7,
-        "Animal shelter database UI",
+        "Animal shelter database",
         "This Shelter Database Web Application is a user friendly platform designed to efficiently organize information related to animal shelters. Developed using PHP, JavaScript, and a database.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
@@ -11,13 +11,13 @@ $projects = array(
          <i data-toggle='tooltip' data-placement='bottom' title='PHP' class='fa-brands fa-php logoSize'></i>",
         "<li>Uses PHP to manipulate date from a database</li>
         <li>Animal shelter database UI",
-        "https://rsawejka.bitlampsites.com/portfolio/Final/homePage.php",
+        "https://rsawejka.com/portfolio/shelterDB/",
         "This is the biggest project I have ever created, I worked on it for 10+ weeks straight! This project contains a custom database, and a frontend to display and manipulate all of the data. This project is based off my current jobs database that we use daily. It is a database that tracks all animals that come to an animal shelter. The database allows employees to adopt out animals, put them in foster and track any data needed for a specific animal. It also allows employees to track all medical information, medications, and vet requests.",
         "https://github.com/rsawejka/Shelter-Database"
     ),
     array(
         6,
-        "Content Management Systems",
+        "LIRWC",
         "The Learning in Retirement of Waukesha County website is built using WordPress along with customized plugins. This website provides an easy way for users to sign up for classes.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
@@ -38,7 +38,8 @@ $projects = array(
          <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='PHP' class='fa-brands fa-php logoSize'></i>",
-        "img/wordpressDev.png", "wpd/wordpress/wordpressfinal/",
+        "img/wordpressDev.png", 
+        "https://rsawejka.com/?page_id=36",
         "This was one of my first big projects, the assignment was to create a website in WordPress about an author, using a database to store information. I chose to make mine about George RR Martin, because I love all of his work. Our Class had the option to use a child theme, but I decided to create my theme from scratch so I could have more control over the look of the website. This project includes things like...<ul><li>Custom WordPress Short Codes</li><li>Custom WordPress Post Type</li><li>WordPress Theme Created From Scratch</li><li>Custom WordPress Plugins</li></ul>",
         "https://github.com/rsawejka/WPD_final"
     ),
@@ -51,7 +52,7 @@ $projects = array(
         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='JavaScript' class='fa-brands fa-js logoSize'></i>",
         "img/yaleHomePage.png",
-        "#",
+        "https://rsawejka.com/",
         "caption for indevidual project page",
         "https://github.com/rsawejka/rsblockfolder/tree/master/src/service-page"
     ),
@@ -65,7 +66,7 @@ $projects = array(
         <i data-toggle='tooltip' data-placement='bottom' title='PHP' class='fa-brands fa-php logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='Database' class='fa-solid fa-database logoSize'></i>",
         "img/yaleHomePage.png",
-        "#",
+        "https://rsawejka.com/portfolio/checklists/",
         "caption for indevidual project page",
         "https://github.com/rsawejka/Shelter-Database"
     ),
@@ -79,7 +80,7 @@ $projects = array(
         <i data-toggle='tooltip' data-placement='bottom' title='PHP' class='fa-brands fa-php logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='Database' class='fa-solid fa-database logoSize'></i>",
         "img/yaleHomePage.png",
-        "#",
+        "https://rsawejka.com/",
         "caption for indevidual project page",
         "https://github.com/rsawejka/LTRshortCode"
     ),
@@ -90,7 +91,7 @@ $projects = array(
         "<i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>",
         "img/yaleHomePage.png",
-        "#",
+        "https://rsawejka.com/portfolio/concordcat/",
         "caption for indevidual project page",
         "https://github.com/rsawejka/concordCat"
     ),
