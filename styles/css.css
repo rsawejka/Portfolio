@@ -52,12 +52,17 @@ nav li a:hover {
 .nav-icons div a {
     margin-right: 8px;
 }
-
+#introText{
+    text-align: center;
+}
+.center-intro{
+    margin: 0 auto;
+}
 #ryan {
     color: #FC5130;
 }
 
-.introScreenNormalText {
+.TScreenNormalText {
     font-size: 1.3em;
 }
 

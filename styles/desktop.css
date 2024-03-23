@@ -34,11 +34,14 @@ header {
 #introText {
     height: 80%;
     margin: 0 auto;
-    width: 60%;
+    width: 40%;
 }
-
+.arrowMargin{
+    margin-left: 10px;
+}
 #homeSectionFooter {
-    text-align: center;
+    margin:0 auto;
+    width: 5%;
 }
 
 .nav-width {

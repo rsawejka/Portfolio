@@ -1,6 +1,6 @@
 <div class="container mt-5" id="introText">
     <div class="row mt-5">
-        <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 mt-5">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-5">
             <div class="introTextBox1 border p-5 mt-2>
 
 
@@ -25,19 +25,12 @@
             </a>
         </div>
     </div>
-    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 mt-5">
-        <div class="introTextBox2 mt-2">
-        I am a web developer with 5 years+ of experiance. For me coding is a fun way for me to push my self to continually keep learning. 
-        I am always excited to take on new tasks as they are an oppertunity to learn more. I thrive the most when I am being challanged, when I am challanged I am very determined and excited to figure out the solution. 
-        Even when I am being challanged I make sure I am still paying close attention to the small deatils to ensure quailty. Currently I am a web developer at the Humane Animal Welfare Society in Waukesha, WI. 
-        I like being able to be creative in helping create new ways to get more animals adoped faster! I am also able to help create new ways to even improve animal health.
-        </div>
-    </div>
+
 </div>
 </div>
 <div id="homeSectionFooter" class="text-center mt-lg-5">
     <div class=" mb-5 mt-lg-5">
-        <div class="pt-lg-5">
+        <div class="pt-lg-5 arrowMargin">
             <a href="#myProjects" class="me-5 ">
                 <svg id="more-arrows">
                     <polygon class="arrow-top" points="37.6,27.9 1.8,1.3 3.3,0 37.6,25.3 71.9,0 73.7,1.3 "/>
