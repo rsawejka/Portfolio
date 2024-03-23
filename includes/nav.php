@@ -5,14 +5,14 @@
 
 
 <!--have no background color each section will change the header background color-->
-    <nav class="nav p-3 position-fixed w-100 d-flex flex-row justify-content-between" id="navbar">
+    <nav class="nav p-3 position-fixed w-100 d-flex flex-row " id="navbar">
      <!--  <li> <div id="sideBarButton">
             <span  class="icon"></span>
             <span class="icon"></span>
             <span class="icon"></span>
         </div>
        </li>-->
-<div class="d-flex flex-row pt-2">
+<div class="d-flex flex-row pt-2 navSectionOne">
 
 
            <li class=""><a href="index.php">Home</a></li>
@@ -22,10 +22,10 @@
             <li class=""><a class="" href="img/MostUpdatedResume.docx" download>Resume</a></li>
 
 </div>
-        <div>
+        <div class="navSectionTwo">
             <a href="/"><img src="img/unnamed.png"></a>
         </div>
-        <div class="nav-width d-flex flex-row justify-content-around icon-text-color nav-icons pt-2">
+        <div class="nav-width d-flex flex-row justify-content-end icon-text-color nav-icons pt-2 navSectionThree">
             <div class="ps-2">
                 <a href="https://www.linkedin.com/in/ryansawejka/" target='_blank'>   <i class="icon-text-color fa-brands fa-linkedin-in"></i></a>
             </div>

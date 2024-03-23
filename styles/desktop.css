@@ -22,7 +22,15 @@ header {
     font-size: 5em;
 
 }
-
+.navSectionOne{
+    width: 49%;
+}
+.navSectionTwo{
+    width: 10%;
+}
+.navSectionThree{
+    width: 40%;
+}
 .introTextBox2 {
     text-align: left;
 }
@@ -44,9 +52,6 @@ header {
     width: 5%;
 }
 
-.nav-width {
-    width: 5%;
-}
 
 #welcome {
     padding-top: 60px;

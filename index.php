@@ -33,23 +33,23 @@ include 'includes/header.php';
                 </div>-->
     </section>
 </div>
-<section class="pb-4 projectsDiv position-relative" id="myProjects">
-    <div class="p-5">
-
-    <h2 class="pt-5 text-FFFAFF">My Projects</h2>
-    </div>
-    <?php
-    include "includes/projectCardColumns.php";
-    ?>
-</section>
-</div>
-<section id="aboutMe" class="position-relative">
-    <div class="p-5">
-        <h2 class="pt-5 pb-3 text-FC5130">About Me</h2>
+<section id="aboutMe" class="pb-4  position-relative" >
+<div class="p-5">
+        <h2 class="pt-5 pb-3 text-FFFAFF">About Me</h2>
     </div>
     <?php
     include 'includes/aboutMe.php';
     ?>
+</section>
+</div>
+<section id="myProjects" class=" projectsDiv position-relative">
+<div class="p-5">
+
+<h2 class="pt-5  text-FC5130 ">My Projects</h2>
+</div>
+<?php
+include "includes/projectCardColumns.php";
+?>
 </section>
 <section id="sectionThree" class="position-relative pt-5">
     <h2 class="text-FFFAFF mx-5 mb-2 pt-5" id="thingsILike">Things I like</h2>

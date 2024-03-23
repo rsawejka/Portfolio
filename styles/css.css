@@ -280,7 +280,7 @@ nav {
 
 .projectsDiv {
     scroll-snap-align: start;
-    background-color: #5B7792;
+    background-color: #FFFAFF;
     z-index: 115;
 
 }
@@ -292,7 +292,7 @@ nav {
 }
 
 #aboutMe {
-    background-color: #FFFAFF;
+    background-color: #5B7792;
     z-index: 115;
     min-height: 100vh;
 }
@@ -602,7 +602,7 @@ nav {
     height: 500px;
 }
 .aboutMeBox{
-    border: 2px dashed #FC5130;
+    border: 2px dashed white;
 }
 .card-body a{
     text-decoration: none;
