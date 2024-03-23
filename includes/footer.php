@@ -107,7 +107,6 @@ $headers .= 'From portfolio site: <' . $encodedEmail . '>' . "\r\n";
                 </div>
 
         </form>
-            <button class='btn btn-outline-secondary col-12 mb-2 contactFormButton'>Download My Resume</button>
         </div>
         <?php
         $emailMessage = "

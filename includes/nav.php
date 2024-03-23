@@ -19,7 +19,7 @@
            <li class=""><a class="" href="index.php#myProjects">Projects</a></li>
             <li class=""><a href="index.php#aboutMe">About Me</a></li>
             <li class=""><a class="" href="index.php#contact">Contact</a></li>
-            <li class=""><a class="" href="img/MostUpdatedResume.docx" download>Resume</a></li>
+            <li class=""><a class="" href="https://docs.google.com/document/d/1nmKhqnXoyaD-mgMuUwwoGIkkLVSQkRAR/edit?usp=sharing&ouid=114616965554620945468&rtpof=true&sd=true" target="_blank">Resume</a></li>
 
 </div>
         <div class="navSectionTwo">
