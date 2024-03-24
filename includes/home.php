@@ -17,10 +17,10 @@
                 <i data-toggle='tooltip' data-placement='bottom' title='PHP' class="fa-brands fa-php logoSize"></i>
                 <i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class="fa-brands fa-wordpress-simple logoSize"></i>
                 <i data-toggle='tooltip' data-placement='bottom' title='React JS' class="fa-brands fa-react logoSize"></i>
-                <i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class="fa-brands fa-bootstrap logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='Bootstrap' class="fa-brands fa-bootstrap logoSize"></i>
             </div>
                 <button type="button" id="contactMe" class="mt-3 btn btn-outline-secondary"><a href="index.php#contact">Contact Me</a></button>
-            <a class="ms-1" href="img/MostUpdatedResume.docx" download>
+            <a class="ms-1" href="https://docs.google.com/document/d/1nmKhqnXoyaD-mgMuUwwoGIkkLVSQkRAR/edit?usp=sharing&ouid=114616965554620945468&rtpof=true&sd=true" target="_blank">
                 <button type="button" id="contactMe" class="mt-3 btn btn-outline-secondary">My Resume</button>
             </a>
         </div>

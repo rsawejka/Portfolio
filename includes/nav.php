@@ -19,7 +19,6 @@
            <li class=""><a class="" href="index.php#myProjects">Projects</a></li>
             <li class=""><a href="index.php#aboutMe">About Me</a></li>
             <li class=""><a class="" href="index.php#contact">Contact</a></li>
-            <li class=""><a class="" href="https://docs.google.com/document/d/1nmKhqnXoyaD-mgMuUwwoGIkkLVSQkRAR/edit?usp=sharing&ouid=114616965554620945468&rtpof=true&sd=true" target="_blank">Resume</a></li>
 
 </div>
         <div class="navSectionTwo">
@@ -27,13 +26,17 @@
         </div>
         <div class="nav-width d-flex flex-row justify-content-end icon-text-color nav-icons pt-2 navSectionThree">
             <div class="ps-2">
-                <a href="https://www.linkedin.com/in/ryansawejka/" target='_blank'>   <i class="icon-text-color fa-brands fa-linkedin-in"></i></a>
+                <a data-toggle='tooltip' data-placement='bottom' title='Linkedin' href="https://www.linkedin.com/in/ryansawejka/" target='_blank'>   <i class="icon-text-color fa-brands fa-linkedin-in"></i></a>
             </div>
             <div class="ps-2">
-              <a href="mailto: <?= $encodedEmail ?>" target='_blank'>  <i class="icon-text-color fa-regular fa-paper-plane"></i></a>
+              <a data-toggle='tooltip' data-placement='bottom' title='Send me an email!' href="mailto: <?= $encodedEmail ?>" target='_blank'>  <i class="icon-text-color fa-regular fa-paper-plane"></i></a>
             </div>
             <div class="ps-2">
-                <a href="https://github.com/rsawejka" target='_blank'>   <i class="icon-text-color fa-brands fa-github"></i></a>
+                <a data-toggle='tooltip' data-placement='bottom' title='GitHub' href="https://github.com/rsawejka" target='_blank'>   <i class="icon-text-color fa-brands fa-github"></i></a>
+
+            </div>
+            <div class="ps-2">
+                <a data-toggle='tooltip' data-placement='bottom' title='My Resume' href="https://docs.google.com/document/d/1nmKhqnXoyaD-mgMuUwwoGIkkLVSQkRAR/edit?usp=sharing&ouid=114616965554620945468&rtpof=true&sd=true" target='_blank'>   <i class="icon-text-color fa-regular fa-file"></i></a>
 
             </div>
 
