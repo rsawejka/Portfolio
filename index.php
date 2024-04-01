@@ -51,12 +51,12 @@ include 'includes/header.php';
 include "includes/projectCardColumns.php";
 ?>
 </section>
-<section id="sectionThree" class="position-relative pt-5">
+<!-- <section id="sectionThree" class="position-relative pt-5">
     <h2 class="text-FFFAFF mx-5 mb-2 pt-5" id="thingsILike">Things I like</h2>
     <?php
-    include "includes/tiles.php";
-    ?>
-</section>
+   // include "includes/tiles.php";
+    ?> 
+</section> -->
 <div class="bg-FC5130 text-FFFAFF p-4 text-center">
     <a href="index.php" class="text-FFFAFF backToTop w-25">
          <div class="pb-3"><i class="fa-solid fa-circle-arrow-up fa-5x"></i></div>
