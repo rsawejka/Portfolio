@@ -125,7 +125,7 @@ $headers .= 'From portfolio site: <' . $encodedEmail . '>' . "\r\n";
         ";
 
         if (isset($_POST['sendMessage'])){
-            mail($encodedEmail,"From Portfolio Site",$emailMessage,$headers);
+            mail("ryansawejka1999@gmail.com","From Portfolio Site",$emailMessage,$headers);
         }
         ?>
 
