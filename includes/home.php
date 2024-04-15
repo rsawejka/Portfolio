@@ -9,6 +9,8 @@
             <h1 class="pt-3 pb-3 align-middle" id="ryan">Ryan Sawejka</h1>
             <div class="introScreenNormalText pb-2 border-bottom">Web Developer</div>
             <div class="mt-3">
+                <i data-toggle='tooltip' data-placement='bottom' title='C#' class="fa-solid fa-hashtag logoSize"></i>
+                <i data-toggle='tooltip' data-placement='bottom' title='ASP .Net' class="fa-solid fa-code logoSize"></i>
                 <i data-toggle='tooltip' data-placement='bottom' title='Vue JS' class="fa-brands fa-vuejs logoSize"></i>
                 <i data-toggle='tooltip' data-placement='bottom' title='JavaScript' class="fa-brands fa-js logoSize"></i>
                 <i data-toggle='tooltip' data-placement='bottom' title='HTML' class="fa-brands fa-html5 logoSize"></i>

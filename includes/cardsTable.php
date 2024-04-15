@@ -2,9 +2,11 @@
 $projects = array(
     array(
         7,
-        "C# - ASP .Net Core database manipulation",
+        "C# - ASP .Net Core database",
         "This Database Web Application written in C# with the ASP .Net Core Framework",
-        "<i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
+        "<i data-toggle='tooltip' data-placement='bottom' title='C#' class='fa-solid fa-hashtag logoSize'></i>
+        <i data-toggle='tooltip' data-placement='bottom' title='ASP .Net' class='fa-solid fa-code logoSize'></i>
+        <i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
          <i data-toggle='tooltip' data-placement='bottom' title='Database' class='fa-solid fa-database logoSize'></i>",
         "<li>Uses C# and ASP .Net Core to manipulate data from a database</li>",
