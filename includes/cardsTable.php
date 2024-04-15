@@ -2,6 +2,18 @@
 $projects = array(
     array(
         7,
+        "C# - ASP .Net Core database manipulation",
+        "This Database Web Application written in C# with the ASP .Net Core Framework",
+        "<i data-toggle='tooltip' data-placement='bottom' title='HTML' class='fa-brands fa-html5 logoSize'></i>
+         <i data-toggle='tooltip' data-placement='bottom' title='CSS' class='fa-brands fa-css3-alt logoSize'></i>
+         <i data-toggle='tooltip' data-placement='bottom' title='Database' class='fa-solid fa-database logoSize'></i>",
+        "<li>Uses C# and ASP .Net Core to manipulate data from a database</li>",
+        "",
+        "This project shows off my skills with C# and the ASP .Net Core framework. I used the Model-View-Controller template to create a fully working application, that displays data, edits data, and stores it all in a database!",
+        "https://github.com/rsawejka/ShelterDB"
+    ),
+    array(
+        7,
         "Animal shelter database",
         "This Shelter Database Web Application is a user friendly platform designed to efficiently organize information related to animal shelters. Developed using PHP, JavaScript, and a database.",
         "<i data-toggle='tooltip' data-placement='bottom' title='Wordpress' class='fa-brands fa-wordpress-simple logoSize'></i>

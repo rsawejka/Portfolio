@@ -12,9 +12,13 @@ foreach ($projects as $project){
             <p class='card-text'>
             $project[2]
             </p>
-            <div class='buttonGitFlex'>
-            <a href='$project[5]' target='_blank'><button type='button' id='contactMe' class='mt-3 btn btn-outline-secondary'>View Site</button></a>";
-            
+            <div class='buttonGitFlex'>";
+
+            if ($project[5] != "") {
+            echo "<a href='$project[5]' target='_blank'><button type='button' id='contactMe' class='mt-3 btn btn-outline-secondary'>View Site</button></a>";
+            }else{
+                echo "";
+            }
             if($project[7] != ""){
 
            
